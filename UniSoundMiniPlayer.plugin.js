@@ -1,9 +1,9 @@
 /**
- * @name UniSoundMiniPlayer
+ * @name !UniSoundMiniPlayer
  * @author iamvany20
  * @authorId 922703097522962432
  * @description Adds a real-time, interactive and minimal UniSound mini-player to the main account panel.
- * @version 1.0.1
+ * @version 2.0.0
  * @source https://github.com/iamvany30/unisound-desktop
  * @updateUrl https://raw.githubusercontent.com/iamvany30/unisound-miniplayer-plugin-bd/refs/heads/main/UniSoundMiniPlayer.plugin.js
  * @license MIT
@@ -477,3 +477,4 @@ module.exports = class UniSoundMiniPlayer {
         BdApi.DOM.addStyle(this.cssId, css);
     }
 };
+
