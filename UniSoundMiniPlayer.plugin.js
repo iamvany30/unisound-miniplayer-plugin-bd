@@ -6,7 +6,7 @@
  * @version 2.0.0
  * @website https://iamvany30.github.io/unisound-site/
  * @source https://github.com/iamvany30/unisound-miniplayer-plugin-bd/blob/main/UniSoundMiniPlayer.plugin.js
- * @updateUrl https://raw.githubusercontent.com/iamvany30/unisound-miniplayer-plugin-bd/main/UniSoundMiniPlayer.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/iamvany30/unisound-miniplayer-plugin-bd/refs/heads/main/UniSoundMiniPlayer.plugin.js
  * @license MIT
  */
 
@@ -478,6 +478,7 @@ module.exports = class UniSoundMiniPlayer {
         BdApi.DOM.addStyle(this.cssId, css);
     }
 };
+
 
 
 
