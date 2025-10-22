@@ -7,6 +7,7 @@
  * @source https://github.com/iamvany30/unisound-desktop
  * @updateUrl https://raw.githubusercontent.com/iamvany30/unisound-miniplayer-plugin-bd/refs/heads/main/UniSoundMiniPlayer.plugin.js
  * @license MIT
+ * @website https://iamvany30.github.io/unisound-site/
  */
 
 module.exports = class UniSoundMiniPlayer {
@@ -477,4 +478,5 @@ module.exports = class UniSoundMiniPlayer {
         BdApi.DOM.addStyle(this.cssId, css);
     }
 };
+
 
